@@ -12,7 +12,7 @@ Website inventory adalah aplikasi berbasis Web untuk mengatur dan mencatat kelua
 
 ## 📜 Fitur Utama
   1. Fitur Login
-    <ultype="square">
+    <ul type="square">
     <li>Memakai pengamanan MD5 untuk password</li>
     <li>Admin dan Petugas mempunyai tempat loginnya masing - masing</li>
     </ul>
