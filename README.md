@@ -131,22 +131,22 @@ http://localhost/Sistem-Persediaan-Barang/
 
 
 
-  * **Login Petugas**<br>
+* **Login Petugas**<br>
     Petugas dapat login dengan username dan password untuk memulai sistem. 
 
     ![login petugas](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/32e98214-352f-4af0-85e6-9ec76892d2a1)
 
-  * **Beranda Petugas**<br>
+* **Beranda Petugas**<br>
   
     ![beranda petugas](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/b5538755-a64b-4a95-8b7e-a59cc207e3b0)
 
-  * **Data Barang Masuk**<br>
+* **Data Barang Masuk**<br>
   
     ![data barang masuk](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/386ae5d2-5194-4464-bfa1-9f11fc0ebd7f)
 
     ![data barang masuk 2](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/e00aa1ad-02a0-41a7-a165-82103d7ba3d5)
     
-  * **Data Barang Ajuan**<br>
+* **Data Barang Ajuan**<br>
 
     ![data ajuan](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/e317191f-147e-4f18-bbf9-d3d93d1a8825)
 
