@@ -1,13 +1,16 @@
-# Sistem-Persediaan-Barang
-Inventory Barang Berbasis Web
-___________________________________________________________________________________________________________________________________________________________________
+# Sistem Informasi Akuntansi - Sistem-Persediaan-Barang
 
-<strong>Tentang Website Inventory</strong>
+## 📖 Pendahuluan
+Dibuat untuk memenuhi tugas mata kuliah Sistem Informasi Akuntansi
 
+Rizky Farras Abdullah<br>
+12030122140223<br>
+Kelas A<br>
 
+## ℹ️ Deskripsi
 Website inventory adalah aplikasi berbasis Web untuk mengatur dan mencatat keluar masuk barang di masing-masing gudang dalam satu perusahaan, yang meliputi pencatatan barang masuk dari Supplier dan pencatatan barang keluar.
 
-<strong>Fitur website</strong>
+## 📜 Fitur Utama
   1. Fitur Login
     <ul type="square">
     <li>Memakai pengamanan MD5 untuk password</li>
