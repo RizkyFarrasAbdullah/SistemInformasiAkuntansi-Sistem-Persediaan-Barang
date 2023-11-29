@@ -49,18 +49,30 @@ Website inventory adalah aplikasi berbasis Web untuk mengatur dan mencatat kelua
    <ul type="square">
     <li>username = rizky</li>
     <li>password = rizky</li>
-
-    
+     
   </ul>
   
-  
--> Catatan(PENTING) :
-    <i>Sebelum mengimport database, pastikan anda membuat database sesuai dengan nama database yang ada di dalam folder DATABASE, yaitu 'inventory'</i>
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Aplikasi ini adalah aplikasi open source, anda bisa menggunakan aplikasi saya ini untuk apapun. 
-Tetapi jika anda berkenan, silahkan donasi :
-1. Paypal = https://paypal.me/Zeppy19?locale.x=id_ID
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Jika ada bagian yang error atau yang ada ingin ditambahkan mohon hubungi :
-1. Whatsapp = 0895635729348<br>
-<strong> Harap Jangan mengubah copyright yang ada di footer website</strong>
+  <h2 id="download">🐱‍💻 Panduan Menjalankan & Install Aplikasi</h2>
+
+Untuk menjalankan aplikasi atau web ini kamu harus install XAMPP dan mempunyai setidaknya satu web browser yang terinstall di komputer anda.
+
+```bash
+# Clone repository ini atau download di
+$ git clone https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang.git
+
+# Buat database
+Buat database dengan nama "inventory" di DMBS [phpmyadmin, dll]
+
+# Upload database
+Arahkan folder ke Sistem-Persediaan-Barang/database/inventory.sql & upload ke dbms [phpmyadmin]
+
+# Cut Folder Sistem-Persediaan-Barang
+Paste di folder xampp/htdocs
+
+# Buka browser
+http://localhost/Sistem-Persediaan-Barang/
+
+# Enjoy, jika ingin login maka liat panduan akun diatas
+```
+
+<p></p>
