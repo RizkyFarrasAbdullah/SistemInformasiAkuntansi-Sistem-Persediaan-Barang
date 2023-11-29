@@ -36,7 +36,7 @@ Website inventory adalah aplikasi berbasis Web untuk mengatur dan mencatat kelua
     
   </ul>
   
-  ## 🔑 Akunt tersedia
+  ## 🔑 Akun tersedia
   <strong>Login default : </strong>
   1. Login Admin :
   <ul type="square">
