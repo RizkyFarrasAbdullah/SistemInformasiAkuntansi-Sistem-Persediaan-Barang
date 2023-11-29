@@ -36,19 +36,19 @@ Website inventory adalah aplikasi berbasis Web untuk mengatur dan mencatat kelua
     
   </ul>
   
-  ________________________________________________________________________________________________________________________________________________________________
+  ## 🔑 Akunt tersedia
   <strong>Login default : </strong>
   1. Login Admin :
   <ul type="square">
-    <li>username = admin </li>
-    <li>password = admin</li>
+    <li>username = rizky </li>
+    <li>password = rizky</li>
    
   </ul>
  
   2. Login Petugas
    <ul type="square">
-    <li>username = petugas</li>
-    <li>password = petugas</li>
+    <li>username = rizky</li>
+    <li>password = rizky</li>
 
     
   </ul>
