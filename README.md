@@ -113,3 +113,7 @@ http://localhost/Sistem-Persediaan-Barang/
     ![data rak](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/17d445eb-4bef-49c1-928c-3946d5ddd86e)
     ![data rak 2](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/01db9300-92ef-413e-9ac6-f2e7b161bc75)
 
+* **Data Rak**<br>
+    ![data barang](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/f8dcaf7d-9c47-4ac0-9425-876ed47f90aa)
+
+![data barang 2](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/b8ab8c26-f0ed-4b0c-8265-4bd62e108efd)s
