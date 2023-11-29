@@ -18,7 +18,7 @@ Website inventory adalah aplikasi berbasis Web untuk mengatur dan mencatat kelua
     </ul>
   2. Fitur Admin
   
-    <ul type="square">
+  <ul type="square">
     <li>Admin bisa melihat statistik data di dashboard nya</li>
     <li>Admin bisa melihat, menambahkan, menghapus dan mengubah data admin</li>
     <li>Admin bisa melihat, menambahkan, menghapus dan mengubah data petugas</li>
