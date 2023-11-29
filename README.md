@@ -94,16 +94,22 @@ http://localhost/Sistem-Persediaan-Barang/
     ![Beranda admin](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/ef53274f-3f6c-4329-b279-6193829a83b6)
   
 * **Data Admin**<br>
+
     ![Dataa admin](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/ce431cb9-ec85-41da-b1ba-b257d27c9a83)
     ![dataa admin 2](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/bb255835-1ada-4ae1-a494-e723834311e4)
 
 * **Data Petugas**<br>
-    ![Data petugas](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/93fa3bfd-b2bf-4a1c-994a-300bd80fb6e1)
+
+    ![Data petugas](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/93fa3bfd-b2bf-4a1c-994a-300bd80fb6e1)  
     ![Data petugas 2](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/fef3a0c0-aa84-489a-bd0f-54aa3e81e697)
 
 * **Data Supplier**<br>
+
     ![data supplier](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/8e62dffe-733d-496e-a959-34f75421b3a4)
     ![data supplier 2](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/f03d40b1-7b04-45fe-836a-f2c4c885ecf5)
 
 * **Data Rak**<br>
-  
+
+    ![data rak](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/17d445eb-4bef-49c1-928c-3946d5ddd86e)
+    ![data rak 2](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/01db9300-92ef-413e-9ac6-f2e7b161bc75)
+
