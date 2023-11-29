@@ -81,7 +81,7 @@ http://localhost/Sistem-Persediaan-Barang/
 
 * **Struktur Database Inventory**<br>
 
-  ![Struktur Database](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/4095e35a-98da-4e28-923e-ee4ea8b9e27e)
+    ![Struktur Database](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/d583a326-bc87-4697-82e4-8e79aefaf5db)
 
 
 
