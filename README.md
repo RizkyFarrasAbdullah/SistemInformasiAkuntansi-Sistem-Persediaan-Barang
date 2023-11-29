@@ -83,6 +83,10 @@ http://localhost/Sistem-Persediaan-Barang/
 
     ![database](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/3c978fa3-71f8-4e50-b195-f57e758ce8d8)
 
+* **Alur Primary Key**<br>
+
+    ![Alur PK 2](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/f9dbb288-7724-41e1-930a-e178439f8b7f)
+  
 ## 🔎 Tampilan Sistem Persediaan Barang Secara Lengkap
 
 * **Home page**<br>
