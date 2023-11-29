@@ -79,6 +79,12 @@ http://localhost/Sistem-Persediaan-Barang/
 
 ## 💾 Database MySQL (phpMyAdmin)
 
+* **Struktur Database Inventory**<br
+
+  ![Struktur Database](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/4095e35a-98da-4e28-923e-ee4ea8b9e27e)
+
+
+
 ## 🔎 Tampilan Sistem Persediaan Barang Secara Lengkap
 
 * **Home page**<br>
