@@ -89,7 +89,7 @@ http://localhost/Sistem-Persediaan-Barang/
 
     ![login admin](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/0fe053dc-1cc6-402e-9af5-3b42e4efcf8f)
 
-  * **Beranda Admin**<br>
+* **Beranda Admin**<br>
 
     ![Beranda admin](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/ef53274f-3f6c-4329-b279-6193829a83b6)
 
