@@ -77,7 +77,7 @@ http://localhost/Sistem-Persediaan-Barang/
 
 <p></p>
 
-## 🔎 Tampilan Sistem
+## 🔎 Tampilan Sistem Persediaan Barang Secara Lengkap
 
 * **Home page**<br>
     Tampilan beranda sebelum menggunakan sistem, ada pilihan masuk ke akun admin atau petugas serta ada deskripsi tentang sistem ini.
@@ -128,3 +128,27 @@ http://localhost/Sistem-Persediaan-Barang/
     ![data barang keluar](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/a4a4f20d-5737-4ed4-a3ed-ed24bd5c5d03)
 
     ![data barang keluar 2](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/d85cc9ee-c45b-4818-a3b1-727c300d5b65)
+
+
+
+  * **Login Petugas**<br>
+    Petugas dapat login dengan username dan password untuk memulai sistem. 
+
+    ![login petugas](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/32e98214-352f-4af0-85e6-9ec76892d2a1)
+
+  * **Beranda Petugas**<br>
+  
+    ![beranda petugas](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/b5538755-a64b-4a95-8b7e-a59cc207e3b0)
+
+  * **Data Barang Masuk**<br>
+  
+    ![data barang masuk](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/386ae5d2-5194-4464-bfa1-9f11fc0ebd7f)
+
+    ![data barang masuk 2](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/e00aa1ad-02a0-41a7-a165-82103d7ba3d5)
+    
+  * **Data Barang Ajuan**<br>
+
+    ![data ajuan](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/e317191f-147e-4f18-bbf9-d3d93d1a8825)
+
+    ![data ajuan 2](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/bf08e1a4-dda0-4b11-8a16-96f3584bc5b7)
+
