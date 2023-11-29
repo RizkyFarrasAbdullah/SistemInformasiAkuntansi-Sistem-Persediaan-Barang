@@ -79,9 +79,9 @@ http://localhost/Sistem-Persediaan-Barang/
 
 ## 🔎 Overview
 
-* Home page<br>
+* **Home page**<br>
   Tampilan beranda sebelum menggunakan sistem, ada pilihan masuk ke akun admin atau petugas serta ada deskripsi tentang sistem ini.
   
   ![Beranda](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/97d32a44-c483-438b-a58a-f6c0c24c330f)
 
-**Login Admin**
+* **Login Admin**<br>
