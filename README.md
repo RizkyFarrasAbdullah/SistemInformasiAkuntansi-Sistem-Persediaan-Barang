@@ -95,7 +95,8 @@ http://localhost/Sistem-Persediaan-Barang/
 
 * **Flowchart**<br>
 
-    ![Flowchart Sistem Persediaan Barang drawio (1)](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/faf01956-38e3-42ac-ad13-a8a10990d69b)
+    ![Flowchart Sistem Persediaan Barang drawio (1)](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/ccbc56e6-800e-452e-bd6e-796e5a03fc42)
+
   
 
 ## 🔎 Tampilan Sistem Persediaan Barang Secara Lengkap
