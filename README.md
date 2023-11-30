@@ -90,7 +90,14 @@ http://localhost/Sistem-Persediaan-Barang/
 * **Alur Primary Key**<br>
 
     ![Alur PK 2](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/f9dbb288-7724-41e1-930a-e178439f8b7f)
+
+## ⌗ Flowchart dan Entity Relationship Diagram
+
+* **Flowchart**<br>
+
+    ![Flowchart Sistem Persediaan Barang drawio (1)](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/faf01956-38e3-42ac-ad13-a8a10990d69b)
   
+
 ## 🔎 Tampilan Sistem Persediaan Barang Secara Lengkap
 
 * **Home page**<br>
