@@ -4,7 +4,11 @@
 Dibuat untuk memenuhi tugas mata kuliah Sistem Informasi Akuntansi
 
 Rizky Farras Abdullah<br>
+
 12030122140223<br>
+
+Sistem Informasi Akuntansi<br>
+
 Kelas A<br>
 
 ## ℹ️ Deskripsi
