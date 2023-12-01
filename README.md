@@ -12,7 +12,7 @@ Sistem Informasi Akuntansi<br>
 Kelas A (S1 Akuntansi)<br>
 
 ## ℹ️ Deskripsi
-Website inventory adalah aplikasi berbasis Web untuk mengatur dan mencatat keluar masuk barang di masing-masing gudang dalam satu perusahaan, yang meliputi pencatatan barang masuk dari Supplier dan pencatatan barang keluar.
+Sistem Persediaan Barang adalah aplikasi berbasis Web untuk mengatur dan mencatat keluar masuk barang di masing-masing gudang dalam satu perusahaan, yang meliputi pencatatan barang masuk dari Supplier dan pencatatan barang keluar.
 
 ## 📜 Fitur Utama
   1. Fitur Login
