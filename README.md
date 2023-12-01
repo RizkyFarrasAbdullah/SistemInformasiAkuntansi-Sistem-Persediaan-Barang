@@ -95,7 +95,7 @@ http://localhost/SistemInformasiAkuntansi-Sistem-Persediaan-Barang/
 
 * **Flowchart**<br>
 
-    ![Flowchart Sistem Persediaan Barang drawio (4)](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/417b1621-ecac-4b50-824b-9a7dbdcfe7b6)
+    ![Flowchart Sistem Persediaan Barang drawio (4)](https://github.com/RizkyFarrasAbdullah/SistemInformasiAkuntansi-Sistem-Persediaan-Barang/assets/152374263/662ea91d-a0d4-46f2-a853-4b18b82fcfd7)
 
 * **Entity Relationship Diagram**<br>
 
