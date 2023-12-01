@@ -70,11 +70,11 @@ Buat database dengan nama "inventory" di DMBS [phpmyadmin, dll]
 # Upload database
 Arahkan folder ke Sistem-Persediaan-Barang/database/inventory.sql & upload ke dbms [phpmyadmin]
 
-# Cut Folder Sistem-Persediaan-Barang
+# Cut Folder SistemInformasiAkuntansi-Sistem-Persediaan-Barang
 Paste di folder xampp/htdocs
 
 # Buka browser
-http://localhost/Sistem-Persediaan-Barang/
+http://localhost/SistemInformasiAkuntansi-Sistem-Persediaan-Barang/
 
 # Enjoy, jika ingin login maka liat panduan akun diatas
 ```
