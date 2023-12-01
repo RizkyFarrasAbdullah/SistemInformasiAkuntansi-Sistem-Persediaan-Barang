@@ -62,7 +62,7 @@ Untuk menjalankan aplikasi atau web ini kamu harus install XAMPP dan mempunyai s
 
 ```bash
 # Clone repository ini atau download di
-$ git clone https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang.git
+$ git clone https://github.com/RizkyFarrasAbdullah/SistemInformasiAkuntansi-Sistem-Persediaan-Barang.git
 
 # Buat database
 Buat database dengan nama "inventory" di DMBS [phpmyadmin, dll]
