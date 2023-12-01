@@ -9,7 +9,7 @@ Rizky Farras Abdullah<br>
 
 Sistem Informasi Akuntansi<br>
 
-Kelas A<br>
+Kelas A (S1 Akuntansi)<br>
 
 ## ℹ️ Deskripsi
 Website inventory adalah aplikasi berbasis Web untuk mengatur dan mencatat keluar masuk barang di masing-masing gudang dalam satu perusahaan, yang meliputi pencatatan barang masuk dari Supplier dan pencatatan barang keluar.
@@ -101,6 +101,7 @@ http://localhost/Sistem-Persediaan-Barang/
 
     ![ERD](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/4bb5fc61-b39d-483e-88ee-54e20b5fcc5e)
   
+
 
 ## 🔎 Tampilan Sistem Persediaan Barang Secara Lengkap
 
