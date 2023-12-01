@@ -178,3 +178,11 @@ http://localhost/SistemInformasiAkuntansi-Sistem-Persediaan-Barang/
 
     ![data ajuan 2](https://github.com/RizkyFarrasAbdullah/Sistem-Persediaan-Barang/assets/152374263/bf08e1a4-dda0-4b11-8a16-96f3584bc5b7)
 
+  
+## 💻 Dibuat dengan
+* PHP - Scripting languaga versi 7 
+* MySQL - Database management system
+
+  
+## ⚠️ Disclaimer
+* Code licensed under MIT License
